@@ -2,6 +2,147 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1aa935f-176b-48b0-bc77-e70d08f874c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/Spring&amp; Hibernate tutorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-aop-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-aop-5.1.4.RELEASE-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-aop-5.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-aspects-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-aspects-5.1.4.RELEASE-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-aspects-5.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-beans-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-beans-5.1.4.RELEASE-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-beans-5.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-context-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-context-5.1.4.RELEASE-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-context-5.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-context-indexer-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-context-indexer-5.1.4.RELEASE-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-context-indexer-5.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-context-support-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-context-support-5.1.4.RELEASE-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-context-support-5.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-core-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-core-5.1.4.RELEASE-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-core-5.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-expression-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-expression-5.1.4.RELEASE-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-expression-5.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-instrument-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-instrument-5.1.4.RELEASE-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-instrument-5.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-jcl-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-jcl-5.1.4.RELEASE-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-jcl-5.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-jdbc-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-jdbc-5.1.4.RELEASE-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-jdbc-5.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-jms-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-jms-5.1.4.RELEASE-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-jms-5.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-messaging-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-messaging-5.1.4.RELEASE-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-messaging-5.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-orm-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-orm-5.1.4.RELEASE-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-orm-5.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-oxm-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-oxm-5.1.4.RELEASE-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-oxm-5.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-test-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-test-5.1.4.RELEASE-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-test-5.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-tx-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-tx-5.1.4.RELEASE-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-tx-5.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-web-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-web-5.1.4.RELEASE-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-web-5.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-webflux-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-webflux-5.1.4.RELEASE-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-webflux-5.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-webmvc-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-webmvc-5.1.4.RELEASE-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-webmvc-5.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-websocket-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-websocket-5.1.4.RELEASE-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-websocket-5.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/out/production/Spring&amp; Hibernate tutorial/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/out/production/Spring&amp; Hibernate tutorial/com/luv2code/springDemo/AnnotationDemoApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/out/production/Spring&amp; Hibernate tutorial/com/luv2code/springDemo/Coach.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/out/production/Spring&amp; Hibernate tutorial/com/luv2code/springDemo/TennisCoach.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/com/luv2code/springDemo/AnnotationDemoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/com/luv2code/springDemo/Coach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/com/luv2code/springDemo/TennisCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-aop-5.1.4.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-aop-5.1.4.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-aop-5.1.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-aspects-5.1.4.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-aspects-5.1.4.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-aspects-5.1.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-beans-5.1.4.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-beans-5.1.4.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-beans-5.1.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-context-5.1.4.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-context-5.1.4.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-context-5.1.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-context-indexer-5.1.4.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-context-indexer-5.1.4.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-context-indexer-5.1.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-context-support-5.1.4.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-context-support-5.1.4.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-context-support-5.1.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-core-5.1.4.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-core-5.1.4.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-core-5.1.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-expression-5.1.4.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-expression-5.1.4.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-expression-5.1.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-instrument-5.1.4.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-instrument-5.1.4.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-instrument-5.1.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-jcl-5.1.4.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-jcl-5.1.4.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-jcl-5.1.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-jdbc-5.1.4.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-jdbc-5.1.4.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-jdbc-5.1.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-jms-5.1.4.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-jms-5.1.4.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-jms-5.1.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-messaging-5.1.4.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-messaging-5.1.4.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-messaging-5.1.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-orm-5.1.4.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-orm-5.1.4.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-orm-5.1.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-oxm-5.1.4.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-oxm-5.1.4.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-oxm-5.1.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-test-5.1.4.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-test-5.1.4.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-test-5.1.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-tx-5.1.4.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-tx-5.1.4.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-tx-5.1.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-web-5.1.4.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-web-5.1.4.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-web-5.1.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-webflux-5.1.4.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-webflux-5.1.4.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-webflux-5.1.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-webmvc-5.1.4.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-webmvc-5.1.4.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-webmvc-5.1.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-websocket-5.1.4.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-websocket-5.1.4.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/spring-websocket-5.1.4.RELEASE.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -13,15 +154,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/applicationContext.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
+            <state relative-caret-position="510">
               <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
-              <folding>
-                <element signature="e#1263#1277#0" expanded="true" />
-                <element signature="e#1317#1330#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -36,61 +173,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/FortuneService.java">
+        <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/TrackCoach.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sport.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/CricketCoach.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="24" column="72" selection-start-line="24" selection-start-column="72" selection-end-line="24" selection-end-column="72" />
-              <folding>
-                <element signature="e#266#267#0" expanded="true" />
-                <element signature="e#301#302#0" expanded="true" />
-                <element signature="e#362#363#0" expanded="true" />
-                <element signature="e#389#390#0" expanded="true" />
-                <element signature="e#187#188#0" expanded="true" />
-                <element signature="e#223#224#0" expanded="true" />
-                <element signature="e#130#131#0" expanded="true" />
-                <element signature="e#157#158#0" expanded="true" />
-                <element signature="e#210#211#0" expanded="true" />
-                <element signature="e#237#238#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/Coach.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/practice/RandomFortune.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="330">
+              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -98,17 +184,53 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/practice.solution.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="31" />
+            <state relative-caret-position="270">
+              <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/practice/PracticeApp.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="76" lean-forward="true" selection-start-line="9" selection-start-column="76" selection-end-line="9" selection-end-column="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/beanScope-applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/beanLifeCycle-applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/BeanLifeCycleDemoApp.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+              <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/BeanScopeDemoApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -121,10 +243,6 @@
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#332#333#0" expanded="true" />
-                <element signature="e#132#133#0" expanded="true" />
-                <element signature="e#159#160#0" expanded="true" />
-                <element signature="e#255#256#0" expanded="true" />
-                <element signature="e#278#279#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -141,6 +259,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/com/luv2code/springdemo</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -154,7 +277,6 @@
         <option value="$PROJECT_DIR$/src/com/luv2code/springdemo/BaseballCoach.java" />
         <option value="$PROJECT_DIR$/src/com/luv2code/springdemo/HelloSpringApp.java" />
         <option value="$PROJECT_DIR$/src/com/luv2code/springdemo/MyApp.java" />
-        <option value="$PROJECT_DIR$/src/com/luv2code/springdemo/TrackCoach.java" />
         <option value="$PROJECT_DIR$/src/com/luv2code/springdemo/CricketCoach.java" />
         <option value="$PROJECT_DIR$/src/com/luv2code/springdemo/SetterDemoApp.java" />
         <option value="$PROJECT_DIR$/src/sport.properties" />
@@ -162,6 +284,11 @@
         <option value="$PROJECT_DIR$/src/com/luv2code/springdemo/RandomFortune.java" />
         <option value="$PROJECT_DIR$/src/com/luv2code/springdemo/BasketballCoach.java" />
         <option value="$PROJECT_DIR$/src/com/luv2code/springdemo/practice/BasketballCoach.java" />
+        <option value="$PROJECT_DIR$/src/com/luv2code/springdemo/BeanScopeDemoApp.java" />
+        <option value="$PROJECT_DIR$/src/beanScope-applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/com/luv2code/springdemo/TrackCoach.java" />
+        <option value="$PROJECT_DIR$/src/beanLifeCycle-applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/com/luv2code/springdemo/BeanLifeCycleDemoApp.java" />
         <option value="$PROJECT_DIR$/src/practice.solution.xml" />
         <option value="$PROJECT_DIR$/src/com/luv2code/springdemo/practice/PracticeApp.java" />
       </list>
@@ -181,6 +308,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,32 +322,17 @@
               <item name="spring-demo-one" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="spring-demo-one" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-demo-one" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="springdemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-demo-one" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-demo-one" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="springdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549890419139" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Solutions/solution-practice-activities" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549972903079" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -231,7 +345,11 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/lib" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.luv2code.springdemo" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.luv2code.springdemo" />
@@ -250,12 +368,12 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.PracticeApp">
-    <configuration name="HelloSpringApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luv2code.springdemo.HelloSpringApp" />
+    <configuration name="BeanLifeCycleDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.springdemo.BeanLifeCycleDemoApp" />
       <module name="spring-demo-one" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.luv2code.springdemo.practice.*" />
+          <option name="PATTERN" value="com.luv2code.springdemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -263,8 +381,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luv2code.springdemo.MyApp" />
+    <configuration name="BeanScopeDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.springdemo.BeanScopeDemoApp" />
+      <module name="spring-demo-one" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luv2code.springdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloSpringApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.springdemo.HelloSpringApp" />
       <module name="spring-demo-one" />
       <extension name="coverage">
         <pattern>
@@ -305,9 +436,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.PracticeApp" />
+        <item itemvalue="Application.BeanLifeCycleDemoApp" />
+        <item itemvalue="Application.BeanScopeDemoApp" />
         <item itemvalue="Application.SetterDemoApp" />
         <item itemvalue="Application.HelloSpringApp" />
-        <item itemvalue="Application.MyApp" />
       </list>
     </recent_temporary>
   </component>
@@ -322,18 +454,19 @@
       <option name="presentableId" value="Default" />
       <updated>1549815411211</updated>
       <workItem from="1549815412639" duration="1469000" />
-      <workItem from="1549872212150" duration="11563000" />
+      <workItem from="1549872212150" duration="15795000" />
+      <workItem from="1549969946833" duration="207000" />
+      <workItem from="1549970877785" duration="1125000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13032000" />
+    <option name="totallyTimeSpent" value="18596000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="49" y="25" width="1317" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25334382" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30133754" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -341,14 +474,14 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.57980454" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22964169" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32899022" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32954547" />
@@ -387,21 +520,6 @@
           <folding>
             <element signature="e#287#288#0" expanded="true" />
             <element signature="e#336#337#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/TrackCoach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#231#232#0" expanded="true" />
-            <element signature="e#127#128#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-            <element signature="e#375#376#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -481,39 +599,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/practice/BasketballCoach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="59" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#132#133#0" expanded="true" />
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#278#279#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
-          <folding>
-            <element signature="e#1263#1277#0" expanded="true" />
-            <element signature="e#1317#1330#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/practice.solution.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/SetterDemoApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -521,10 +606,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/practice/PracticeApp.java">
+    <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/TrackCoach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice.solution.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/beanScope-applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/beanLifeCycle-applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/BeanLifeCycleDemoApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/BeanScopeDemoApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/practice/BasketballCoach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="59" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/practice/PracticeApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="76" lean-forward="true" selection-start-line="9" selection-start-column="76" selection-end-line="9" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
         </state>
       </provider>
     </entry>
