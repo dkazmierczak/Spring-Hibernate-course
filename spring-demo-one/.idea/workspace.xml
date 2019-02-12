@@ -2,84 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1aa935f-176b-48b0-bc77-e70d08f874c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/Spring&amp; Hibernate tutorial.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-aop-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-aop-5.1.4.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-aop-5.1.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-aspects-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-aspects-5.1.4.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-aspects-5.1.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-beans-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-beans-5.1.4.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-beans-5.1.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-context-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-context-5.1.4.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-context-5.1.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-context-indexer-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-context-indexer-5.1.4.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-context-indexer-5.1.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-context-support-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-context-support-5.1.4.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-context-support-5.1.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-core-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-core-5.1.4.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-core-5.1.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-expression-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-expression-5.1.4.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-expression-5.1.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-instrument-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-instrument-5.1.4.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-instrument-5.1.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-jcl-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-jcl-5.1.4.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-jcl-5.1.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-jdbc-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-jdbc-5.1.4.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-jdbc-5.1.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-jms-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-jms-5.1.4.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-jms-5.1.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-messaging-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-messaging-5.1.4.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-messaging-5.1.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-orm-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-orm-5.1.4.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-orm-5.1.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-oxm-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-oxm-5.1.4.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-oxm-5.1.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-test-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-test-5.1.4.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-test-5.1.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-tx-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-tx-5.1.4.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-tx-5.1.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-web-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-web-5.1.4.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-web-5.1.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-webflux-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-webflux-5.1.4.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-webflux-5.1.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-webmvc-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-webmvc-5.1.4.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-webmvc-5.1.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-websocket-5.1.4.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-websocket-5.1.4.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-websocket-5.1.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/out/production/Spring&amp; Hibernate tutorial/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/out/production/Spring&amp; Hibernate tutorial/com/luv2code/springDemo/AnnotationDemoApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/out/production/Spring&amp; Hibernate tutorial/com/luv2code/springDemo/Coach.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/out/production/Spring&amp; Hibernate tutorial/com/luv2code/springDemo/TennisCoach.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/com/luv2code/springDemo/AnnotationDemoApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/com/luv2code/springDemo/Coach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/com/luv2code/springDemo/TennisCoach.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lib/spring-aop-5.1.4.RELEASE-javadoc.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../lib/spring-aop-5.1.4.RELEASE-sources.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../lib/spring-aop-5.1.4.RELEASE.jar" beforeDir="false" />
@@ -143,7 +65,11 @@
       <change beforePath="$PROJECT_DIR$/../lib/spring-websocket-5.1.4.RELEASE-javadoc.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../lib/spring-websocket-5.1.4.RELEASE-sources.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../lib/spring-websocket-5.1.4.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo-annotations/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo-annotations/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo-annotations/out/production/Spring&amp; Hibernate tutorial/com/luv2code/springDemo/AnnotationDemoApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo-annotations/out/production/Spring&amp; Hibernate tutorial/com/luv2code/springDemo/AnnotationDemoApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo-annotations/out/production/Spring&amp; Hibernate tutorial/com/luv2code/springDemo/TennisCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo-annotations/out/production/Spring&amp; Hibernate tutorial/com/luv2code/springDemo/TennisCoach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo-annotations/src/com/luv2code/springDemo/AnnotationDemoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/com/luv2code/springDemo/AnnotationDemoApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo-annotations/src/com/luv2code/springDemo/TennisCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/com/luv2code/springDemo/TennisCoach.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -265,7 +191,7 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -331,7 +257,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549972903079" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549973694738" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
