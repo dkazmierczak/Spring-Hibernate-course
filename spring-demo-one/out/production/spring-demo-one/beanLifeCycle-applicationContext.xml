@@ -16,9 +16,8 @@
 
     <bean id="myCoach"
           class="com.luv2code.springdemo.TrackCoach"
-          scope="prototype">
-          <!-- If we will not do prototype scope like above, we will get default singleton scope -->
-          <!-- And then the every object will be create from one instance in memory -->
+          init-method="doMyStartupStuff"
+          destroy-method="doMyCleanupStuffYoYo">
 
         <!-- set up constructor injection -->
         <constructor-arg ref="myFortuneService" />
