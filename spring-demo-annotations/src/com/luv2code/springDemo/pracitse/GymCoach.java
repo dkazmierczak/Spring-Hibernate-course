@@ -11,4 +11,9 @@ public class GymCoach implements Coach {
 
         return "You need to do some push ups for 15 minutes";
     }
+
+    @Override
+    public String getDailyFortune() {
+        return null;
+    }
 }
