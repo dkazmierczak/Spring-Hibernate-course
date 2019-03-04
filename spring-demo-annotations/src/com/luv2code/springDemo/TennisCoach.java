@@ -17,7 +17,7 @@ public class TennisCoach implements Coach {
 
     //define a default constructor
     public TennisCoach(){
-        System.out.println(">> TenisCoach:  inside default constructor");
+        System.out.println(">>TennisCoach:  inside default constructor");
     }
 
     //define my init method

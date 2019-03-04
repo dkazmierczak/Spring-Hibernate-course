@@ -1,6 +1,5 @@
-package com.luv2code.springDemo.pracitse;
+package com.luv2code.springDemo.practise;
 
-import com.luv2code.springDemo.Coach;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class PractiseApp {
@@ -8,11 +7,13 @@ public class PractiseApp {
     public static void main(String[] args) {
 
         ClassPathXmlApplicationContext context =
-                new ClassPathXmlApplicationContext("applicationContext.xml");
+                new ClassPathXmlApplicationContext("practiseApplicationContext.xml");
 
-        Coach practiseCoach = context.getBean("gymCoach", Coach.class);
+        PractiseCoach practiseCoach = context.getBean("gymCoach", PractiseCoach.class);
 
         System.out.println(practiseCoach.getDailyWorkout());
+
+        System.out.println(practiseCoach.getDailyFortune());
 
         context.close();
     }
