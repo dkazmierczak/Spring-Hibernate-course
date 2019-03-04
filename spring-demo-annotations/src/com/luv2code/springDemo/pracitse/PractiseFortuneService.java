@@ -8,7 +8,7 @@ public class PractiseFortuneService implements FortuneService {
 
     private String[] theFortune = {
             "Never give up",
-            "TOday is your lucky day",
+            "Today is your lucky day",
             "Beware of the wolf"
     };
 
