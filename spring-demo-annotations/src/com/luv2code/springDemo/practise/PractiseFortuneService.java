@@ -24,7 +24,7 @@ public class PractiseFortuneService implements PractiseFortuneServiceInterface {
 
         System.out.println("PostConstructor just run");
 
-        File file = new File("com/luv2code/springDemo/practise/fortune-data.txt");
+        File file = new File("src/com/luv2code/springDemo/practise/fortune-data.txt");
 
         theFortunes = new ArrayList<>();
 

@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc2a043f-a15b-497a-8c49-23d669644eb0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springDemo/practise/PractiseFortuneService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springDemo/practise/fortune-data.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lib/spring-aop-5.1.4.RELEASE-javadoc.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../lib/spring-aop-5.1.4.RELEASE-sources.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../lib/spring-aop-5.1.4.RELEASE.jar" beforeDir="false" />
@@ -68,18 +66,6 @@
       <change beforePath="$PROJECT_DIR$/../lib/spring-websocket-5.1.4.RELEASE-sources.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../lib/spring-websocket-5.1.4.RELEASE.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring&amp; Hibernate tutorial/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring&amp; Hibernate tutorial/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring&amp; Hibernate tutorial/com/luv2code/springDemo/TennisCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring&amp; Hibernate tutorial/com/luv2code/springDemo/TennisCoach.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring&amp; Hibernate tutorial/com/luv2code/springDemo/pracitse/GymCoach.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring&amp; Hibernate tutorial/com/luv2code/springDemo/pracitse/PractiseApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring&amp; Hibernate tutorial/com/luv2code/springDemo/pracitse/PractiseFortuneService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring&amp; Hibernate tutorial/sport.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springDemo/TennisCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springDemo/TennisCoach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springDemo/pracitse/GymCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springDemo/practise/GymCoach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springDemo/pracitse/PractiseApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springDemo/practise/PractiseApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springDemo/pracitse/PractiseFortuneService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sport.properties" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -120,20 +106,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/luv2code/springDemo/TennisCoach.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
+            <state relative-caret-position="270">
               <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#306#307#0" expanded="true" />
-                <element signature="e#342#343#0" expanded="true" />
-                <element signature="e#630#631#0" expanded="true" />
-                <element signature="e#666#667#0" expanded="true" />
-                <element signature="e#832#833#0" expanded="true" />
-                <element signature="e#913#914#0" expanded="true" />
-                <element signature="e#190#191#0" expanded="true" />
-                <element signature="e#244#245#0" expanded="true" />
-                <element signature="e#297#298#0" expanded="true" />
-                <element signature="e#324#325#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -142,15 +118,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/luv2code/springDemo/practise/GymCoach.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="62">
+            <state relative-caret-position="270">
               <caret line="22" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#398#399#0" expanded="true" />
-                <element signature="e#434#435#0" expanded="true" />
-                <element signature="e#523#524#0" expanded="true" />
-                <element signature="e#591#592#0" expanded="true" />
-                <element signature="e#695#696#0" expanded="true" />
+                <element signature="e#597#598#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -181,8 +153,6 @@
               <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#363#364#0" expanded="true" />
-                <element signature="e#399#400#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -258,7 +228,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -306,12 +275,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551727991036" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551728095400" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -403,17 +373,19 @@
       <workItem from="1549970503900" duration="615000" />
       <workItem from="1549971321232" duration="3414000" />
       <workItem from="1550306860879" duration="69000" />
-      <workItem from="1551628556189" duration="11067000" />
+      <workItem from="1551628556189" duration="11315000" />
+      <workItem from="1552124314795" duration="599000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15590000" />
+    <option name="totallyTimeSpent" value="16437000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="49" y="25" width="1317" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26593235" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27065304" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -422,7 +394,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37296417" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37296417" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -513,13 +485,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luv2code/springDemo/Coach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/Random.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="70">
@@ -531,28 +496,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="172">
           <caret line="362" selection-start-line="362" selection-end-line="362" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luv2code/springDemo/practise/fortune-data.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luv2code/springDemo/practise/GymCoach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#398#399#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
-            <element signature="e#523#524#0" expanded="true" />
-            <element signature="e#591#592#0" expanded="true" />
-            <element signature="e#695#696#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -570,30 +513,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luv2code/springDemo/Coach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/luv2code/springDemo/TennisCoach.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
+        <state relative-caret-position="270">
           <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#630#631#0" expanded="true" />
-            <element signature="e#666#667#0" expanded="true" />
-            <element signature="e#832#833#0" expanded="true" />
-            <element signature="e#913#914#0" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luv2code/springDemo/practise/PractiseApp.java">
+    <entry file="file://$PROJECT_DIR$/src/com/luv2code/springDemo/practise/GymCoach.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="61" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
+        <state relative-caret-position="270">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -611,14 +555,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luv2code/springDemo/practise/PractiseApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="61" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luv2code/springDemo/practise/fortune-data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/luv2code/springDemo/practise/PractiseFortuneService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
           </folding>
         </state>
       </provider>
