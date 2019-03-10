@@ -15,15 +15,15 @@ public class PractiseFortuneService implements PractiseFortuneServiceInterface {
 
     private Random myRandom = new Random();
 
-    public PractiseFortuneService(){
-        System.out.println("Inside constructor of PractiseFortuneService");
-    }
+//    public PractiseFortuneService(){
+//        System.out.println("Inside constructor of PractiseFortuneService");
+//    }
 
     @PostConstruct
     public void fileFortuneService(){
 
-        System.out.println("PostConstructor just run");
-
+//        System.out.println("PostConstructor just run");
+//
         File file = new File("src/com/luv2code/springDemo/practise/fortune-data.txt");
 
         theFortunes = new ArrayList<>();
