@@ -6,11 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spring-mvc-demo" />
+        <module name="Spring&amp; Hibernate tutorial" />
+        <module name="spring-mvc--demo" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="spring-mvc-demo" target="1.7" />
-    </bytecodeTargetLevel>
   </component>
 </project>
