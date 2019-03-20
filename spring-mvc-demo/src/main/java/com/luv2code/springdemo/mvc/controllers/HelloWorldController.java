@@ -24,10 +24,14 @@ public class HelloWorldController {
     //new a controller method to read from data and add data to the model
     @RequestMapping("/processFormVersionTwo")
     public String letsShoutDude(HttpServletRequest request, Model model){
+
         //read the request parameter from the HTML form
         String theName = request.getParameter("studentName");
 
-        //conert the data to all caps
+        //convert the data to all caps
+        theName = theName.toUpperCase();
+
+        //create the message
         String result = "Yo! " + theName;
 
         //add message to the model
