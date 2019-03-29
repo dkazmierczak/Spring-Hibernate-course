@@ -1,6 +1,6 @@
 package com.luv2code.springdemo.mvc.controllers;
 
-import com.luv2code.springdemo.mvc.Customer;
+import com.luv2code.springdemo.mvc.domain.Customer;
 import org.springframework.beans.propertyeditors.StringTrimmerEditor;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.InitBinder;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import javax.naming.Binding;
 import javax.validation.Valid;
 
 @Controller
