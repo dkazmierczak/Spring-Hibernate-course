@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2733cf99-7da2-492a-8d06-e89d3ff8c007" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2733cf99-7da2-492a-8d06-e89d3ff8c007" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,11 +66,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/QueryStudentDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="50" column="76" selection-start-line="50" selection-start-column="76" selection-end-line="50" selection-end-column="76" />
+            <state relative-caret-position="307">
+              <caret line="49" column="40" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
               <folding>
                 <element signature="e#0#12#1" expanded="true" />
                 <element signature="e#0#32#1" expanded="true" />
@@ -82,7 +79,18 @@
                 <element signature="e#0#58#1" expanded="true" />
                 <element signature="e#0#59#1" expanded="true" />
                 <element signature="e#0#20#1" expanded="true" />
-                <element signature="e#0#36#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/UpdateStudentDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="48" column="46" selection-start-line="48" selection-start-column="46" selection-end-line="48" selection-end-column="46" />
+              <folding>
+                <element signature="e#0#27#1" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -127,6 +135,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/ReadStudentDemo.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/QueryStudentDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/UpdateStudentDemo.java" />
       </list>
     </option>
   </component>
@@ -268,7 +277,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.QueryStudentDemo">
+  <component name="RunManager" selected="Application.UpdateStudentDemo">
     <configuration name="CreateStudentDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.luv2code.hibernate.demo.CreateStudentDemo" />
       <module name="hibernate-tutorial" />
@@ -321,20 +330,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestJdbc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestJdbc" />
+    <configuration name="UpdateStudentDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.hibernate.demo.UpdateStudentDemo" />
       <module name="hibernate-tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luv2code.hibernate.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UpdateStudentDemo" />
         <item itemvalue="Application.QueryStudentDemo" />
         <item itemvalue="Application.ReadStudentDemo" />
         <item itemvalue="Application.PrimaryKeyDemo" />
         <item itemvalue="Application.CreateStudentDemo" />
-        <item itemvalue="Application.TestJdbc" />
       </list>
     </recent_temporary>
   </component>
@@ -351,12 +366,12 @@
       <workItem from="1553890345058" duration="4265000" />
       <workItem from="1554017125919" duration="79000" />
       <workItem from="1554139597062" duration="4316000" />
-      <workItem from="1554145809596" duration="8094000" />
+      <workItem from="1554145809596" duration="10282000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16754000" />
+    <option name="totallyTimeSpent" value="18942000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="49" y="25" width="659" height="743" extended-state="4" />
@@ -456,8 +471,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/QueryStudentDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="50" column="76" selection-start-line="50" selection-start-column="76" selection-end-line="50" selection-end-column="76" />
+        <state relative-caret-position="307">
+          <caret line="49" column="40" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
           <folding>
             <element signature="e#0#12#1" expanded="true" />
             <element signature="e#0#32#1" expanded="true" />
@@ -466,7 +481,16 @@
             <element signature="e#0#58#1" expanded="true" />
             <element signature="e#0#59#1" expanded="true" />
             <element signature="e#0#20#1" expanded="true" />
-            <element signature="e#0#36#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/UpdateStudentDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="48" column="46" selection-start-line="48" selection-start-column="46" selection-end-line="48" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#27#1" expanded="true" />
           </folding>
         </state>
       </provider>
