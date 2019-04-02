@@ -84,13 +84,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/UpdateStudentDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
+            <state relative-caret-position="547">
               <caret line="48" column="46" selection-start-line="48" selection-start-column="46" selection-end-line="48" selection-end-column="46" />
               <folding>
                 <element signature="e#0#27#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/DeleteStudentDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#30#1" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -136,6 +148,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/QueryStudentDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/UpdateStudentDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/DeleteStudentDemo.java" />
       </list>
     </option>
   </component>
@@ -277,9 +290,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UpdateStudentDemo">
-    <configuration name="CreateStudentDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luv2code.hibernate.demo.CreateStudentDemo" />
+  <component name="RunManager" selected="Application.DeleteStudentDemo">
+    <configuration name="DeleteStudentDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.hibernate.demo.DeleteStudentDemo" />
       <module name="hibernate-tutorial" />
       <extension name="coverage">
         <pattern>
@@ -345,11 +358,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeleteStudentDemo" />
         <item itemvalue="Application.UpdateStudentDemo" />
         <item itemvalue="Application.QueryStudentDemo" />
         <item itemvalue="Application.ReadStudentDemo" />
         <item itemvalue="Application.PrimaryKeyDemo" />
-        <item itemvalue="Application.CreateStudentDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -366,12 +379,12 @@
       <workItem from="1553890345058" duration="4265000" />
       <workItem from="1554017125919" duration="79000" />
       <workItem from="1554139597062" duration="4316000" />
-      <workItem from="1554145809596" duration="10282000" />
+      <workItem from="1554145809596" duration="10854000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18942000" />
+    <option name="totallyTimeSpent" value="19514000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="49" y="25" width="659" height="743" extended-state="4" />
@@ -387,7 +400,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.47394136" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.47394136" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -487,10 +500,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/UpdateStudentDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
+        <state relative-caret-position="547">
           <caret line="48" column="46" selection-start-line="48" selection-start-column="46" selection-end-line="48" selection-end-column="46" />
           <folding>
             <element signature="e#0#27#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/DeleteStudentDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#30#1" expanded="true" />
           </folding>
         </state>
       </provider>
