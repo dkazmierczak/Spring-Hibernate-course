@@ -11,7 +11,7 @@ public class CreateStudentDemo {
 
         //create session factory
         SessionFactory factory = new Configuration()
-                .configure()
+                .configure("hibernate.cfg.xml")
                 .addAnnotatedClass(Student.class)
                 .buildSessionFactory();
 
