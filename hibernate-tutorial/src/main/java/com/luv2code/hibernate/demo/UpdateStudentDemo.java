@@ -25,7 +25,7 @@ public class UpdateStudentDemo {
             session.beginTransaction();
 
             //retrieve student based on the id: primary key
-            System.out.println("/ Gettinge student with id: " + studentId);
+            System.out.println("\nGettinge student with id: " + studentId);
 
             Student myStudent = session.get(Student.class, studentId);
 

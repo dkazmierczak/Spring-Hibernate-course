@@ -25,15 +25,13 @@ public class DeleteStudentDemo {
             session.beginTransaction();
 
             //retrieve student based on the id: primary key
-            System.out.println("/ Gettinge student with id: " + studentId);
+            System.out.println("\nGettinge student with id: " + studentId);
             Student myStudent = session.get(Student.class, studentId);
 
 
-            //delete the student
-            //first method:
-            //
-            //System.out.println("Deleting student: " + myStudent);
-            //session.delete(myStudent);
+//            delete the student
+//            System.out.println("Deleting student: " + myStudent);
+//            session.delete(myStudent);
 
 
             //delete student id=2
