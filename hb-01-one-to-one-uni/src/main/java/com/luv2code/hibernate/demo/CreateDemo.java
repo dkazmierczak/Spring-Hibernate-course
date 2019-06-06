@@ -24,14 +24,14 @@ public class CreateDemo {
 
             //create objects
             Instructor instructor = new Instructor(
-                    "Chad",
-                    "Darby",
-                    "darby@luve2code.com"
+                    "Madhu",
+                    "Patel",
+                    "madhu@luve2code.com"
             );
 
             InstructorDetail instructorDetail = new InstructorDetail(
-                    "http://www.luve2code.come/youtube",
-                    "Luv 2 code!!"
+                    "http://www.youtube.com",
+                    "Guitar"
             );
 
             //associate the objects
@@ -40,6 +40,10 @@ public class CreateDemo {
             //start a transaction
             session.beginTransaction();
 
+            //save the instructor
+            //it will also save the details object, because of CascadeType.All
+            System.out.println("Saving instructor: " + instructor);
+            session.save(instructor);
 
 
             //commit transaction
