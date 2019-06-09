@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2733cf99-7da2-492a-8d06-e89d3ff8c007" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/entity/Instructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/entity/Instructor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/luv2code/hibernate/demo/entity/Instructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/luv2code/hibernate/demo/entity/Instructor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2733cf99-7da2-492a-8d06-e89d3ff8c007" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,24 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/CreateDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/DeleteDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="54" column="28" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/entity/InstructorDetail.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -101,11 +77,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/CreateCoursesDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="40" column="38" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
+            <state relative-caret-position="780">
+              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/GetInstructorCoursesDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="37" column="74" lean-forward="true" selection-start-line="37" selection-start-column="74" selection-end-line="37" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/DeleteCourseDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -158,6 +152,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/CreateInstructorDemo.java" />
         <option value="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/CreateCoursesDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/GetInstructorCoursesDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/DeleteCourseDemo.java" />
       </list>
     </option>
   </component>
@@ -286,7 +282,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CreateCoursesDemo">
+  <component name="RunManager" selected="Application.GetInstructorCoursesDemo">
     <configuration name="CreateCoursesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.luv2code.hibernate.demo.CreateCoursesDemo" />
       <module name="hibernate-tutorial" />
@@ -313,8 +309,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeleteDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luv2code.hibernate.demo.DeleteDemo" />
+    <configuration name="DeleteCourseDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.hibernate.demo.DeleteCourseDemo" />
       <module name="hibernate-tutorial" />
       <extension name="coverage">
         <pattern>
@@ -339,8 +335,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetInstructorDetailDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luv2code.hibernate.demo.GetInstructorDetailDemo" />
+    <configuration name="GetInstructorCoursesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.hibernate.demo.GetInstructorCoursesDemo" />
       <module name="hibernate-tutorial" />
       <extension name="coverage">
         <pattern>
@@ -354,11 +350,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GetInstructorCoursesDemo" />
+        <item itemvalue="Application.DeleteCourseDemo" />
         <item itemvalue="Application.CreateCoursesDemo" />
         <item itemvalue="Application.CreateInstructorDemo" />
         <item itemvalue="Application.DeleteInstructorDetailDemo" />
-        <item itemvalue="Application.GetInstructorDetailDemo" />
-        <item itemvalue="Application.DeleteDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -382,12 +378,12 @@
       <workItem from="1559676591320" duration="2615000" />
       <workItem from="1559916614005" duration="1398000" />
       <workItem from="1559918912546" duration="1333000" />
-      <workItem from="1560066824246" duration="382000" />
+      <workItem from="1560066824246" duration="984000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31307000" />
+    <option name="totallyTimeSpent" value="31909000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="864" height="946" extended-state="0" />
@@ -540,8 +536,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/CreateCoursesDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="40" column="38" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
+        <state relative-caret-position="780">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/GetInstructorCoursesDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="37" column="74" lean-forward="true" selection-start-line="37" selection-start-column="74" selection-end-line="37" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/DeleteCourseDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
         </state>
       </provider>
     </entry>
