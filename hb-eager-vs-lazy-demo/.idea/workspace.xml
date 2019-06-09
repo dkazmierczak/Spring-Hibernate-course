@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2733cf99-7da2-492a-8d06-e89d3ff8c007" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/EagerLazyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/EagerLazyDemo.java" afterDir="false" />
-    </list>
+    <list default="true" id="2733cf99-7da2-492a-8d06-e89d3ff8c007" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,15 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/GetInstructorDetailDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/DeleteInstructorDetailDemo.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -97,11 +86,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/EagerLazyDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="40" column="64" selection-start-line="40" selection-start-column="64" selection-end-line="40" selection-end-column="64" />
+            <state relative-caret-position="417">
+              <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/FetchJoinDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="54" column="12" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#0#26#1" expanded="true" />
+                <element signature="e#0#46#1" expanded="true" />
+                <element signature="e#0#75#1" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -157,6 +161,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/DeleteCourseDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/entity/Instructor.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/EagerLazyDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/FetchJoinDemo.java" />
       </list>
     </option>
   </component>
@@ -230,15 +235,6 @@
               <item name="hb-eager-vs-lazy-demo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hb-eager-vs-lazy-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hb-eager-vs-lazy-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -285,22 +281,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EagerLazyDemo">
+  <component name="RunManager" selected="Application.FetchJoinDemo">
     <configuration name="CreateCoursesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.luv2code.hibernate.demo.CreateCoursesDemo" />
-      <module name="hibernate-tutorial" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.luv2code.hibernate.demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CreateInstructorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luv2code.hibernate.demo.CreateInstructorDemo" />
       <module name="hibernate-tutorial" />
       <extension name="coverage">
         <pattern>
@@ -338,6 +321,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FetchJoinDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.hibernate.demo.FetchJoinDemo" />
+      <module name="hibernate-tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luv2code.hibernate.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GetInstructorCoursesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.luv2code.hibernate.demo.GetInstructorCoursesDemo" />
       <module name="hibernate-tutorial" />
@@ -353,11 +349,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FetchJoinDemo" />
         <item itemvalue="Application.EagerLazyDemo" />
         <item itemvalue="Application.GetInstructorCoursesDemo" />
         <item itemvalue="Application.DeleteCourseDemo" />
         <item itemvalue="Application.CreateCoursesDemo" />
-        <item itemvalue="Application.CreateInstructorDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -382,18 +378,18 @@
       <workItem from="1559916614005" duration="1398000" />
       <workItem from="1559918912546" duration="1333000" />
       <workItem from="1560066824246" duration="984000" />
-      <workItem from="1560068647403" duration="1146000" />
+      <workItem from="1560068647403" duration="2003000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33055000" />
+    <option name="totallyTimeSpent" value="33912000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="802" height="946" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.35523114" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.35394737" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Persistence" order="3" side_tool="true" />
@@ -559,8 +555,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/EagerLazyDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="40" column="64" selection-start-line="40" selection-start-column="64" selection-end-line="40" selection-end-column="64" />
+        <state relative-caret-position="417">
+          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/FetchJoinDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="54" column="12" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#0#26#1" expanded="true" />
+            <element signature="e#0#46#1" expanded="true" />
+            <element signature="e#0#75#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
