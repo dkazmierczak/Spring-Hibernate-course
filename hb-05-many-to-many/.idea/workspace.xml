@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2733cf99-7da2-492a-8d06-e89d3ff8c007" name="Default Changelist" comment="" />
+    <list default="true" id="2733cf99-7da2-492a-8d06-e89d3ff8c007" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/entity/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/entity/Course.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,19 +18,25 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/GetCourseAndReviewsDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/entity/Course.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="585">
+              <caret line="73" column="40" selection-start-line="73" selection-start-column="40" selection-end-line="73" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1618#1619#0" expanded="true" />
+                <element signature="e#1673#1674#0" expanded="true" />
+                <element signature="e#1713#1714#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/DeleteCourseAndReviewsDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/entity/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="39" column="37" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+            <state relative-caret-position="702">
+              <caret line="100" selection-start-line="100" selection-end-line="100" />
             </state>
           </provider>
         </entry>
@@ -54,7 +62,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/CreateStudentDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/entity/Student.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/PrimaryKeyDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/ReadStudentDemo.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
@@ -73,11 +80,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/DeleteCourseDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/entity/Review.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/entity/Instructor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/entity/Course.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/CreateCourseAndReviewsDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/GetCourseAndReviewsDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/DeleteCourseAndReviewsDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/entity/Course.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/entity/Student.java" />
       </list>
     </option>
   </component>
@@ -98,7 +106,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="864" />
+    <option name="width" value="768" />
     <option name="height" value="946" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -111,54 +119,61 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="hb-04-one-to-many-uni" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hb-04-one-to-many-uni" type="462c0819:PsiDirectoryNode" />
+              <item name="hb-05-many-to-many" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hb-05-many-to-many" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hb-04-one-to-many-uni" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hb-04-one-to-many-uni" type="462c0819:PsiDirectoryNode" />
+              <item name="hb-05-many-to-many" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hb-05-many-to-many" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hb-04-one-to-many-uni" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hb-04-one-to-many-uni" type="462c0819:PsiDirectoryNode" />
+              <item name="hb-05-many-to-many" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hb-05-many-to-many" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hb-04-one-to-many-uni" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hb-04-one-to-many-uni" type="462c0819:PsiDirectoryNode" />
+              <item name="hb-05-many-to-many" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hb-05-many-to-many" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hb-04-one-to-many-uni" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hb-04-one-to-many-uni" type="462c0819:PsiDirectoryNode" />
+              <item name="hb-05-many-to-many" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hb-05-many-to-many" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hb-04-one-to-many-uni" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hb-04-one-to-many-uni" type="462c0819:PsiDirectoryNode" />
+              <item name="hb-05-many-to-many" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hb-05-many-to-many" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
               <item name="entity" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="hb-05-many-to-many" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hb-05-many-to-many" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -297,17 +312,18 @@
       <workItem from="1559918912546" duration="1333000" />
       <workItem from="1560066824246" duration="1680000" />
       <workItem from="1560077156963" duration="1737000" />
+      <workItem from="1560079681180" duration="460000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34342000" />
+    <option name="totallyTimeSpent" value="34802000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="864" height="946" extended-state="0" />
+    <frame x="0" y="23" width="768" height="946" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.35523114" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3539945" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Persistence" order="3" side_tool="true" />
@@ -365,7 +381,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/entity/Student.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/PrimaryKeyDemo.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/ReadStudentDemo.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/QueryStudentDemo.java" />
@@ -426,33 +441,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/entity/Course.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#764#765#0" expanded="true" />
-            <element signature="e#789#790#0" expanded="true" />
-            <element signature="e#1258#1259#0" expanded="true" />
-            <element signature="e#1288#1289#0" expanded="true" />
-            <element signature="e#1340#1341#0" expanded="true" />
-            <element signature="e#1378#1379#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/DeleteInstructorDetailDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
           <caret line="45" column="20" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="89" selection-start-line="10" selection-start-column="89" selection-end-line="10" selection-end-column="89" />
         </state>
       </provider>
     </entry>
@@ -505,15 +497,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/GetCourseAndReviewsDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
+        <state relative-caret-position="495">
           <caret line="39" selection-start-line="39" selection-end-line="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/DeleteCourseAndReviewsDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
+        <state relative-caret-position="495">
           <caret line="39" column="37" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="10" column="73" selection-start-line="10" selection-start-column="73" selection-end-line="10" selection-end-column="73" />
+          <folding>
+            <element signature="e#461#466#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/solution-code-hibernate-hb-05-many-to-many/src/com/luv2code/hibernate/demo/entity/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/entity/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="73" column="40" selection-start-line="73" selection-start-column="40" selection-end-line="73" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1618#1619#0" expanded="true" />
+            <element signature="e#1673#1674#0" expanded="true" />
+            <element signature="e#1713#1714#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/entity/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
         </state>
       </provider>
     </entry>
