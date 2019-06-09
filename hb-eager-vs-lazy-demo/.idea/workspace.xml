@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2733cf99-7da2-492a-8d06-e89d3ff8c007" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/entity/Instructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/entity/Instructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/EagerLazyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/EagerLazyDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -100,8 +100,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/EagerLazyDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+            <state relative-caret-position="145">
+              <caret line="40" column="64" selection-start-line="40" selection-start-column="64" selection-end-line="40" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -155,8 +155,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/CreateCoursesDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/GetInstructorCoursesDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/DeleteCourseDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/EagerLazyDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/entity/Instructor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/EagerLazyDemo.java" />
       </list>
     </option>
   </component>
@@ -382,12 +382,12 @@
       <workItem from="1559916614005" duration="1398000" />
       <workItem from="1559918912546" duration="1333000" />
       <workItem from="1560066824246" duration="984000" />
-      <workItem from="1560068647403" duration="587000" />
+      <workItem from="1560068647403" duration="1146000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32496000" />
+    <option name="totallyTimeSpent" value="33055000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="802" height="946" extended-state="0" />
@@ -403,7 +403,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49887386" weight="0.441452" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49887386" visible="true" weight="0.441452" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39929742" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -432,18 +432,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/EagerLazyDemo.java</url>
-          <line>30</line>
-          <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/hibernate-tutorial.iml" />
@@ -571,8 +559,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/hibernate/demo/EagerLazyDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        <state relative-caret-position="145">
+          <caret line="40" column="64" selection-start-line="40" selection-start-column="64" selection-end-line="40" selection-end-column="64" />
         </state>
       </provider>
     </entry>
