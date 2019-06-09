@@ -189,7 +189,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GetCourseAndReviewsDemo">
+  <component name="RunManager" selected="Application.DeleteCourseAndReviewsDemo">
     <configuration name="CreateCourseAndReviewsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.luv2code.hibernate.demo.CreateCourseAndReviewsDemo" />
       <module name="hibernate-tutorial" />
@@ -203,8 +203,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreateCoursesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luv2code.hibernate.demo.CreateCoursesDemo" />
+    <configuration name="DeleteCourseAndReviewsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.hibernate.demo.DeleteCourseAndReviewsDemo" />
       <module name="hibernate-tutorial" />
       <extension name="coverage">
         <pattern>
@@ -257,11 +257,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeleteCourseAndReviewsDemo" />
         <item itemvalue="Application.GetCourseAndReviewsDemo" />
         <item itemvalue="Application.CreateCourseAndReviewsDemo" />
         <item itemvalue="Application.GetInstructorCoursesDemo" />
         <item itemvalue="Application.DeleteCourseDemo" />
-        <item itemvalue="Application.CreateCoursesDemo" />
       </list>
     </recent_temporary>
   </component>
