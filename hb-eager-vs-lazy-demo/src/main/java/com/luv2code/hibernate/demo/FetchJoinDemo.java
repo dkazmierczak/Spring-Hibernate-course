@@ -52,7 +52,7 @@ public class FetchJoinDemo {
 
             //close the session
             session.close();
-            
+
             System.out.println("\nluv2code: The session is now closed \n");
 
             //get course for the instructor
